@@ -10,7 +10,14 @@ Welcome to McCurry Research Group's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   sops/acid-clean-glass
+   sops/agar-salt-bridge.rst
+   sops/ag-wire-chloriding.rst
+   sops/flexible-double-junction.rst
+   sops/pb-upd.rst
+   sops/pdms-prep.rst
+   sops/ref-electrode-check.rst
+   sops/su-8-2050-master.rst
 
 Indices and tables
 ==================
